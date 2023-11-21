@@ -26,9 +26,8 @@ I'm currently focusing on improving my skills in algorithms and data structures,
 - Email: your.email@example.com
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourtwitterhandle)
-- [Portfolio](https://yourportfolio.com)
+- [GitHub](https://github.com/vikky2810/)
+
 
 ## ⚡ Fun Fact
 Did you know? Fun fact about yourself.
