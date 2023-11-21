@@ -18,7 +18,7 @@ I'm currently focusing on improving my skills in algorithms and data structures,
 - [Project 3](link-to-project3) - Brief description
 
 ## 📫 Contact Me
-- LinkedIn: [Vikram Kamble](your-linkedin-profile)
+- LinkedIn: [Vikram Kamble](https://www.linkedin.com/in/vikram-kamble-888933264/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLJ0tXQtoTGiW9Hp4F0MDGw%3D%3D)
 - Email: your.email@example.com
 
 ## 🌐 Find Me Online
