@@ -13,9 +13,13 @@ I am a B.Tech student passionate about technology and software development. Curr
 I'm currently focusing on improving my skills in algorithms and data structures, and exploring web development frameworks.
 
 ## 🚀 Projects
-- [Project 1](link-to-project1) - Brief description
-- [Project 2](link-to-project2) - Brief description
-- [Project 3](link-to-project3) - Brief description
+### 1. Tic Tac Toe Game (React.js)
+- [GitHub Repository](https://github.com/vikky2810/tictactoe)
+- Description: A simple Tic Tac Toe game implemented using React.js.
+
+### 2. Alpaca Image Generator (React.js)
+- [GitHub Repository](https://github.com/vikky2810/alpaca-image-generator-website)
+- Description: An application that generates cute alpaca images using React.js.
 
 ## 📫 Contact Me
 - LinkedIn: [Vikram Kamble](https://www.linkedin.com/in/vikram-kamble-888933264/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLJ0tXQtoTGiW9Hp4F0MDGw%3D%3D)
