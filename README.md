@@ -1,7 +1,7 @@
 # Hello, I'm Vikram Kamble! 👋
 
 ## About Me
-I am a B.Tech student passionate about technology and software development. Currently in my 2nd year, I'm eager to learn and contribute to the world of programming.
+I'm a B.Tech Computer Science student passionate about technology and software development.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: C++, Python
