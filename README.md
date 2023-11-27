@@ -30,6 +30,6 @@ I'm currently focusing on improving my skills in algorithms and data structures,
 
 
 ## ⚡ Fun Fact
-Did you know? Fun fact about yourself.
+Different Error = Progress 
 
 Feel free to reach out and connect! 😊
