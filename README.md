@@ -18,6 +18,15 @@ I'm a B.Tech Computer Science student passionate about technology and software d
 - Version Control: Git
 - IDEs: Visual Studio Code, PyCharm
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/vikky-10/github-readme-stats"><img alt="vikky singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikky2810&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vikky-10/github-readme-stats"><img alt="vikky singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky2810&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 ## 🌱 Currently Learning
 I'm currently focusing on improving my skills in algorithms and data structures, and exploring web development frameworks.
 
