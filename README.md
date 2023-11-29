@@ -50,4 +50,14 @@ I'm currently focusing on improving my skills in algorithms and data structures,
 ## ⚡ Fun Fact
 Different Error = Progress 
 
-Feel free to reach out and connect! 😊
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/vikram-kamble-888933264/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
+
+## ❤ Followers
+ 
+<a href="https://github.com/vikky2810?tab=followers"><img src="https://img.shields.io/github/followers/vikky2810?label=Followers&style=social" alt="GitHub Badge"></a>
