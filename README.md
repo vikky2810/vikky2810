@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vikky2810/count.svg" />
+</p>
+
+
 # Hello, I'm Vikram Kamble! 👋
 
 ## About Me
