@@ -1,69 +1,61 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vikky2810/count.svg" />
+<h1 align="center">Hi 👋, I'm Vikram Kamble</h1>
+<h3 align="center">Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn</h3>
+
+<p align="center">
+  <a href="https://github.com/vikky2810"><img src="https://img.shields.io/github/followers/vikky2810?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/vikramkamble/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kamblevikram2810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+---
 
-# Hello, I'm Vikram Kamble! 👋
+### 🚀 About Me
+- 🎓 Final Year B.Tech CSE Student (2025)
+- 💻 Tech Stack: MERN, AI/ML, Python, JavaScript
+- 🧠 Learning Data Structures, System Design & AI Tools
+- 🔭 Currently building Whatever Comes in my Mind
+- 📬 Connect with me for collaborations, internships, or startup ideas!
 
-## About Me
-I'm a B.Tech Computer Science student passionate about technology and software development.
+---
 
-## 🔧 Technologies & Tools
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"          alt="mongodb" width="48" height="48"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-- Programming Languages: C++, Python
-- Web Development: HTML, CSS, JavaScript
-- Version Control: Git
-- IDEs: Visual Studio Code, PyCharm
+### 🔧 Tech I Use
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/vikky-10/github-readme-stats"><img alt="vikky singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikky2810&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vikky-10/github-readme-stats"><img alt="vikky singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky2810&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-## 🌱 Currently Learning
-I'm currently focusing on improving my skills in algorithms and data structures, and exploring web development frameworks.
-
-## 🚀 Projects
-### 1. Tic Tac Toe Game (React.js)
-- [GitHub Repository](https://github.com/vikky2810/tictactoe)
-- Description: A simple Tic Tac Toe game implemented using React.js.
-
-### 2. Alpaca Image Generator (React.js)
-- [GitHub Repository](https://github.com/vikky2810/alpaca-image-generator-website)
-- Description: An application that generates cute alpaca images using React.js.
-
-## 📫 Contact Me
-- LinkedIn: [Vikram Kamble](https://www.linkedin.com/in/vikram-kamble-888933264/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLJ0tXQtoTGiW9Hp4F0MDGw%3D%3D)
-- Email: kamblevikram2810@gmail.com 
-
-## 🌐 Find Me Online
-- [GitHub](https://github.com/vikky2810/)
-
-
-## ⚡ Fun Fact
-Different Error = Progress 
-
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/vikram-kamble-888933264/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,python,cpp,git,github,vscode,figma" />
 </p>
 
-## ❤ Followers
- 
-<a href="https://github.com/vikky2810?tab=followers"><img src="https://img.shields.io/github/followers/vikky2810?label=Followers&style=social" alt="GitHub Badge"></a>
+---
+
+### 📌 Pinned Projects
+
+- 🔍 [**AI Explains This Repo**](https://github.com/vikky2810/ai-explains-repo)  
+  A web app that uses Google Gemini to generate beginner-friendly explanations for any GitHub repository.  
+  `Next.js` · `TypeScript` · `Open Source` · `AI`
+
+- 🧠 [**Conversational Image Recognition Chatbot**](https://github.com/vikky2810/Conversational_Image_Recognition_Chatbot)  
+  An AI-powered chatbot that can interpret and analyze uploaded images using modern recognition models.  
+  `Next.js` · `TypeScript` · `TailwindCSS` · `AI`
+
+- 🎨 [**FrontendMentorChallenges**](https://github.com/vikky2810/FrontendMentorChallenges)  
+  A collection of real-world frontend challenges to sharpen HTML/CSS skills with clean, responsive design.  
+  `HTML` · `CSS` · `Frontend` · `Practice`
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikky2810&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikky2810&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- 💬 I'm open to discussions on open source, AI, startups & productivity
+- 🌱 Always learning. Always building.
+
+---
+
+> “The best way to learn is to build.” – Vikram Kamble
