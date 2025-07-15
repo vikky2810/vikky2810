@@ -45,8 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikky2810&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikky2810&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
