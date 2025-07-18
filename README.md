@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=vikky2810%2Fvikky2810">
+    <img src="https://api.visitorbadge.io/api/visitors?path=vikky2810%2Fvikky2810&label=VISITORS&countColor=%23263759" alt="Visitor badge"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vikram Kamble</h1>
 <h3 align="center">Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn</h3>
 
