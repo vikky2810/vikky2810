@@ -4,8 +4,12 @@
   </a>
 </p>
 
+<div align="center">
+
 ## Hi 👋, I'm Vikram Kamble
 ### Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn
+
+</div>
 
 <p align="center">
   <a href="https://github.com/vikky2810"><img src="https://img.shields.io/github/followers/vikky2810?label=GitHub&style=social" alt="GitHub"></a>
