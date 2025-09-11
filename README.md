@@ -37,6 +37,8 @@
 - 🔍 [**AI Explains This Repo**](https://github.com/vikky2810/ai-explains-repo)  
   A web app that uses Google Gemini to generate beginner-friendly explanations for any GitHub repository.  
   `Next.js` · `TypeScript` · `Open Source` · `AI`
+  
+  Live demo: https://ai-explains-repo.vercel.app  
 
 - 🧠 [**Conversational Image Recognition Chatbot**](https://github.com/vikky2810/Conversational_Image_Recognition_Chatbot)  
   An AI-powered chatbot that can interpret and analyze uploaded images using modern recognition models.  
