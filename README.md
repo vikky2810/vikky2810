@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Vikram Kamble</h1>
-<h3 align="center">Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn</h3>
+## Hi 👋, I'm Vikram Kamble
+### Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn
 
 <p align="center">
   <a href="https://github.com/vikky2810"><img src="https://img.shields.io/github/followers/vikky2810?label=GitHub&style=social" alt="GitHub"></a>
@@ -37,6 +37,8 @@
 - 🔍 [**AI Explains This Repo**](https://github.com/vikky2810/ai-explains-repo)  
   A web app that uses Google Gemini to generate beginner-friendly explanations for any GitHub repository.  
   `Next.js` · `TypeScript` · `Open Source` · `AI`
+  
+  Live demo: https://ai-explains-repo.vercel.app  
 
 - 🧠 [**Conversational Image Recognition Chatbot**](https://github.com/vikky2810/Conversational_Image_Recognition_Chatbot)  
   An AI-powered chatbot that can interpret and analyze uploaded images using modern recognition models.  
