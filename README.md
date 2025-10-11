@@ -9,8 +9,8 @@
     <img src="willsmith.png" alt="Will Smith" style="width: 200px; height: auto; border-radius: 10px;">
   </div>
   <div style="flex: 1; text-align: right;">
-    ## Hi 👋, I'm Vikram Kamble
-    ### Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn
+    <h2>Hi 👋, I'm Vikram Kamble</h2>
+    <h3>Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn</h3>
   </div>
 </div>
 
