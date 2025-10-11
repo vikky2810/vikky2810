@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 0 0 auto;">
     <img src="willsmith.png" alt="Will Smith" style="width: 200px; height: auto; border-radius: 10px;">
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: right;">
     ## Hi 👋, I'm Vikram Kamble
     ### Final Year CS Student | MERN + AI/ML Developer | Building Projects As I Learn
   </div>
