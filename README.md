@@ -53,14 +53,6 @@
   `HTML` · `CSS` · `Frontend` · `Practice`
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikky2810&show_icons=true&theme=github_dark&hide=issues" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 - 💬 I'm open to discussions on open source, AI, startups & productivity
