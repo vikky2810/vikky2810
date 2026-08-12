@@ -14,12 +14,29 @@ I fix bugs, and I also create them. It's a talent.
 
 <a href="https://vikky2810.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/vikramkamble/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
 <a href="mailto:kamblevikram2810@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/vikky2810?tab=followers"><img src="https://img.shields.io/github/followers/vikky2810?style=for-the-badge&logo=github&labelColor=000000&color=555555" alt="Followers"></a>
 
 </div>
 
+<!--
+  TODO: record a 5-second screen capture of ai-explains-repo (paste a repo URL -> explanation appears),
+  save it as assets/ai-explains-repo.gif in this repo, then delete this comment block
+  and the two lines below will start rendering.
+
+<p align="center">
+  <a href="https://ai-explains-repo.vercel.app/">
+    <img src="./assets/ai-explains-repo.gif" width="720" alt="ai-explains-repo: paste a GitHub repo URL and get an explanation of the code" />
+  </a>
+</p>
+<p align="center"><sub><a href="https://ai-explains-repo.vercel.app/">ai-explains-repo</a> — paste a repo link, read what the code does.</sub></p>
+
+-->
+
 ---
+
+**Currently building:** more features for [ai-explains-repo](https://github.com/vikky2810/ai-explains-repo) and a rebuild of my [portfolio site](https://vikky2810.github.io).
 
 ## About
 
@@ -42,7 +59,26 @@ These days I work mostly in TypeScript and React, add AI APIs to my side project
 | **[OnlineCodeEditor](https://github.com/vikky2810/OnlineCodeEditor)** | A free Python editor that runs in the browser. Nothing to install. | [Try it](https://viks-online-code-editor.vercel.app/) |
 | **[20-JavaScript-Projects](https://github.com/vikky2810/20-JavaScript-Projects)** | Twenty small projects to practice JavaScript basics. | — |
 
-The rest of my repos are on the [repositories tab](https://github.com/vikky2810?tab=repositories), including the freeCodeCamp data analysis set and a few experiments that went nowhere.
+The rest of my repos are on the [repositories tab](https://github.com/vikky2810?tab=repositories), including a few experiments that went nowhere.
+
+## Certifications
+
+**freeCodeCamp — Data Analysis with Python.** All five projects, written in Python with pandas, NumPy, Matplotlib and Seaborn:
+
+[Mean-Variance-Standard Deviation Calculator](https://github.com/vikky2810/MeanVarianceStandardDeviationCalculatorFreeCodeCamp) · [Demographic Data Analyzer](https://github.com/vikky2810/DemographicDataAnalyzerFreeCodeCamp) · [Medical Data Visualizer](https://github.com/vikky2810/MedicalDataVisualizerFreeCodeCamp) · [Page View Time Series Visualizer](https://github.com/vikky2810/PageViewTimeSeriesVisualizerFreeCodeCamp) · [Sea Level Predictor](https://github.com/vikky2810/SeaLevelPredictorFreeCodeCamp)
+
+<!-- TODO: paste your freeCodeCamp certificate URL here, e.g. https://www.freecodecamp.org/certification/<your-fcc-username>/data-analysis-with-python -->
+
+## Freelance
+
+I take on small to mid-size builds, usually somewhere in this range:
+
+- React or Next.js front-ends, from a landing page to a full dashboard
+- Full-stack apps on the MERN stack, including auth, database work and deployment
+- Adding an AI API to something you already run, like a chatbot, a summariser, or a document search
+- Fixing and finishing a project someone else started
+
+Based in India, so I work on **IST (UTC+5:30)** and can overlap a few hours with Europe or the US East Coast. I usually reply within a day. Send a short note about what you're building and I'll tell you honestly whether I'm the right person for it.
 
 ---
 
