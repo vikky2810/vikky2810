@@ -73,7 +73,7 @@ The rest of my repos are on the [repositories tab](https://github.com/vikky2810?
 
 [Mean-Variance-Standard Deviation Calculator](https://github.com/vikky2810/MeanVarianceStandardDeviationCalculatorFreeCodeCamp) · [Demographic Data Analyzer](https://github.com/vikky2810/DemographicDataAnalyzerFreeCodeCamp) · [Medical Data Visualizer](https://github.com/vikky2810/MedicalDataVisualizerFreeCodeCamp) · [Page View Time Series Visualizer](https://github.com/vikky2810/PageViewTimeSeriesVisualizerFreeCodeCamp) · [Sea Level Predictor](https://github.com/vikky2810/SeaLevelPredictorFreeCodeCamp)
 
-<!-- TODO: paste your freeCodeCamp certificate URL here, e.g. https://www.freecodecamp.org/certification/<your-fcc-username>/data-analysis-with-python -->
+[View certificate](https://www.freecodecamp.org/certification/fccda51474f-5f76-4078-b48c-ea6ef806b659/data-analysis-with-python-v7)
 
 ## Freelance
 
