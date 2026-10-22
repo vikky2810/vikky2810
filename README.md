@@ -14,7 +14,7 @@ I fix bugs, and I also create them. It's a talent.
 
 <a href="https://vikky2810.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/vikramkamble/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
+<a href="https://drive.google.com/file/d/1uNEqg3oauehkKqKNmX_SBjd67OD40Nb_/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
 <a href="mailto:kamblevikram2810@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/vikky2810?tab=followers"><img src="https://img.shields.io/github/followers/vikky2810?style=for-the-badge&logo=github&labelColor=000000&color=555555" alt="Followers"></a>
 
