@@ -60,10 +60,10 @@ These days I work mostly in TypeScript and React, add AI APIs to my side project
 
 | Project | What it does | Live |
 | --- | --- | --- |
-| **[ai-explains-repo](https://github.com/vikky2810/ai-explains-repo)** | Paste any GitHub repo link and get a simple explanation of what the code does. Built with TypeScript. | [Try it](https://ai-explains-repo.vercel.app/) |
-| **[dsl-to-diagrams](https://github.com/vikky2810/dsl-to-diagrams)** | Type plain text and get a clean architecture diagram back. No dragging boxes around. | [Try it](https://dsl-to-diagrams.vercel.app) |
-| **[OnlineCodeEditor](https://github.com/vikky2810/OnlineCodeEditor)** | A free Python editor that runs in the browser. Nothing to install. | [Try it](https://viks-online-code-editor.vercel.app/) |
-| **[Health-Aware Recipe Modifier](https://github.com/vikky2810/Recipe-Modifier)** | Enter a recipe and your health conditions; it flags harmful ingredients, suggests safe swaps and exports a PDF report. Flask, MongoDB, Gemini API. | [Try it](https://recipe-modifier-app.vercel.app) |
+| **[ai-explains-repo](https://github.com/vikky2810/ai-explains-repo)** | Paste any GitHub repo link and get a simple explanation of what the code does. Built with TypeScript. | [Try&nbsp;it](https://ai-explains-repo.vercel.app/) |
+| **[dsl-to-diagrams](https://github.com/vikky2810/dsl-to-diagrams)** | Type plain text and get a clean architecture diagram back. No dragging boxes around. | [Try&nbsp;it](https://dsl-to-diagrams.vercel.app) |
+| **[OnlineCodeEditor](https://github.com/vikky2810/OnlineCodeEditor)** | A free Python editor that runs in the browser. Nothing to install. | [Try&nbsp;it](https://viks-online-code-editor.vercel.app/) |
+| **[Health-Aware Recipe Modifier](https://github.com/vikky2810/Recipe-Modifier)** | Enter a recipe and your health conditions; it flags harmful ingredients, suggests safe swaps and exports a PDF report. Flask, MongoDB, Gemini API. | [Try&nbsp;it](https://recipe-modifier-app.vercel.app) |
 
 The rest of my repos are on the [repositories tab](https://github.com/vikky2810?tab=repositories), including a few experiments that went nowhere.
 
