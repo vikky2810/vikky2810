@@ -1,14 +1,8 @@
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=vikky2810%2Fvikky2810">
-    <img src="https://api.visitorbadge.io/api/visitors?path=vikky2810%2Fvikky2810&label=VISITORS&countColor=%23263759" alt="Visitor badge"/>
-  </a>
-</p>
-
 <div align="center">
 
 # Hi, I'm Vikram Kamble
 
-**Full-stack developer working across MERN and AI/ML.**
+**Full-stack developer (React, Node, TypeScript) building AI-powered tools.**
 
 I fix bugs, and I also create them. It's a talent.
 
@@ -44,6 +38,18 @@ Most of the projects here started because I needed them myself. A repo I couldn'
 
 These days I work mostly in TypeScript and React, add AI APIs to my side projects, and practice DSA and system design when I get time. If you want to build something together, send me a message.
 
+## Experience
+
+- **Software Engineer Intern**, RegiKart Private Limited (Remote) · Jun 2026 – Present\
+  Building, testing and debugging features for web apps; Git workflows and code reviews with the team.
+- **Python Development Intern**, Malleable Software, Gadhinglaj · Aug 2023\
+  Wrote Python automation scripts that cut manual steps out of internal workflows.
+
+## Education
+
+- **B.E. Computer Science**, Sant Gajanan Maharaj College of Engineering · 2023 – 2026
+- **Diploma in Computer Engineering**, Sant Gajanan Maharaj Rural Polytechnic, Mahagaon · 2020 – 2023
+
 ## Tech
 
 <p align="left">
@@ -57,7 +63,7 @@ These days I work mostly in TypeScript and React, add AI APIs to my side project
 | **[ai-explains-repo](https://github.com/vikky2810/ai-explains-repo)** | Paste any GitHub repo link and get a simple explanation of what the code does. Built with TypeScript. | [Try it](https://ai-explains-repo.vercel.app/) |
 | **[dsl-to-diagrams](https://github.com/vikky2810/dsl-to-diagrams)** | Type plain text and get a clean architecture diagram back. No dragging boxes around. | [Try it](https://dsl-to-diagrams.vercel.app) |
 | **[OnlineCodeEditor](https://github.com/vikky2810/OnlineCodeEditor)** | A free Python editor that runs in the browser. Nothing to install. | [Try it](https://viks-online-code-editor.vercel.app/) |
-| **[20-JavaScript-Projects](https://github.com/vikky2810/20-JavaScript-Projects)** | Twenty small projects to practice JavaScript basics. | — |
+| **[Health-Aware Recipe Modifier](https://github.com/vikky2810/Recipe-Modifier)** | Enter a recipe and your health conditions; it flags harmful ingredients, suggests safe swaps and exports a PDF report. Flask, MongoDB, Gemini API. | [Try it](https://recipe-modifier-app.vercel.app) |
 
 The rest of my repos are on the [repositories tab](https://github.com/vikky2810?tab=repositories), including a few experiments that went nowhere.
 
@@ -71,14 +77,8 @@ The rest of my repos are on the [repositories tab](https://github.com/vikky2810?
 
 ## Freelance
 
-I take on small to mid-size builds, usually somewhere in this range:
-
-- React or Next.js front-ends, from a landing page to a full dashboard
-- Full-stack apps on the MERN stack, including auth, database work and deployment
-- Adding an AI API to something you already run, like a chatbot, a summariser, or a document search
-- Fixing and finishing a project someone else started
-
-Based in India, so I work on **IST (UTC+5:30)** and can overlap a few hours with Europe or the US East Coast. I usually reply within a day. Send a short note about what you're building and I'll tell you honestly whether I'm the right person for it.
+I take on small to mid-size builds: React/Next.js front-ends, MERN apps, and adding AI features to existing products.
+Based in India (IST, UTC+5:30); send a short note about what you're building and I'll reply within a day.
 
 ---
 
@@ -90,3 +90,9 @@ The best way to reach me is [email](mailto:kamblevikram2810@gmail.com) or [Linke
 <sub>Still learning. Still building.</sub>
 
 </div>
+
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=vikky2810%2Fvikky2810">
+    <img src="https://api.visitorbadge.io/api/visitors?path=vikky2810%2Fvikky2810&label=VISITORS&countColor=%23263759" alt="Visitor badge"/>
+  </a>
+</p>
